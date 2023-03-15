@@ -27,6 +27,8 @@ GPT 모델이 질문에대한 답변을 generate 하기에 가장 알맞은 모�
 - Naver ClovaCall 110,000 pair qa dataset(요청함 - 우리 모델에 맞는 데이터인지는 확인해봐야 알듯?)
 - (+) 데이터가 너무 없으면 영어로된 챗봇 data는 많아서 번역api 돌려서 써도 괜찮을거 같음)
 
+참고 https://github.com/songys/AwesomeKorean_Data
+
 #### Data Preprocessing
 - 답변 문장 종결어미 통일
 - 맞춤법 (띄어쓰기 - PyKoSpacing (https://github.com/haven-jeon/PyKoSpacing), naver)
