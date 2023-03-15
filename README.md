@@ -23,7 +23,7 @@ GPT 모델이 질문에대한 답변을 generate 하기에 가장 알맞은 모�
 
 ## Data Collection
 - 깃허브 chatbot dataset https://raw.githubusercontent.com/songys/Chatbot_data/master/ChatbotData.csv (11823 pair)
-- 모두의 말뭉치 / AI-hub 온라인대화 일상대화 data (?로 끝나는 질문과 가까운 시간안에 대답하는 질문답변 pair - 고려중)
+- 모두의 말뭉치 / AI-hub 온라인대화 일상대화 data (?로 끝나는 질문과 가까운 시간안에 대답하는 질문답변 pair - 고려중 // 일반 상식, 용도별 목적 대화, 주제별 텍스트 일상 대화)
 - Naver ClovaCall 110,000 pair qa dataset(요청함 - 우리 모델에 맞는 데이터인지는 확인해봐야 알듯?)
 - (+) 데이터가 너무 없으면 영어로된 챗봇 data는 많아서 번역api 돌려서 써도 괜찮을거 같음)
 
