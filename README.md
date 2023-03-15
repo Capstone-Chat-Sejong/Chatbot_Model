@@ -60,4 +60,7 @@ GPT 모델이 질문에대한 답변을 generate 하기에 가장 알맞은 모�
 - 공감 답글 생성 모델  https://github.com/jiminAn/Capstone_2022#%ED%8C%80-%EC%9C%84%EB%93%9C%EC%9C%A0-%EC%86%8C%EA%B0%9C
 
 
+</br>
 
+## Chatbot Structure
+<img width="100%" src="https://user-images.githubusercontent.com/65898247/225276634-3c7bff15-7812-47ad-b780-4bf398fb25c9.png"/>
