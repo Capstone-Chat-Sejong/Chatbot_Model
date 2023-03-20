@@ -61,7 +61,7 @@ GPT 모델이 질문에대한 답변을 generate 하기에 가장 알맞은 모�
 - 공감 답글 생성 모델  https://github.com/jiminAn/Capstone_2022#%ED%8C%80-%EC%9C%84%EB%93%9C%EC%9C%A0-%EC%86%8C%EA%B0%9C
 
 
-## 주차별 진행상
+## 주차별 진행상황
 #### 3월 2주
  - 주제확정 / 세부 계획 수립
 #### 3월 3주
