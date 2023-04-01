@@ -82,4 +82,4 @@ GPT 모델이 질문에대한 답변을 generate 하기에 가장 알맞은 모�
 </br>
 
 ## Chatbot Structure
-<img width="100%" src="https://user-images.githubusercontent.com/65898247/225276634-3c7bff15-7812-47ad-b780-4bf398fb25c9.png"/>
+images.githubusercontent.com/65898247/229288919-27fb57cf-44fe-4fe2-9a94-d69f55273d92.png
